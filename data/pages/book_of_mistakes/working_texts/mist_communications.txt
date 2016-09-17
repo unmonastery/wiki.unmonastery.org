@@ -1,0 +1,40 @@
+''|[[book_of_mistakes:working_texts:mist_the_building_utilites|previous]]   |  [[book_of_mistakes:working_texts:start|back to CONTENT]]  |   [[book_of_mistakes:working_texts:mist_leadership_responsibility|next]]|''
+====== Communications ======
+
+
+
+== 1.0  Most of the facilitation occurs in the second generation: people to people.  ==
+
+|The structure of the unMonastery was such that from the beginning we had to communicate to a multitude of stakeholders, and to very differing audiences, through several different channels.  All this, while we ourselves had not yet developed a clear definition of what being an unMonasterian entailed. From one side, we were expected to post on the Edgeryders platform almost daily, to ask for help or advice if necessary, and generally to share the experience of living //The unMonastery//. This rarely happened. The long-term Edgeryder unMonks' prototype was wildly different from the dreams and plans that they'd hatched at various ER gatherings over the years.  Some of the unMonasterians, new to the ER platform, had no commitment to reporting there. In-house problem solving was based on Circles; it worked as long as the Circle culture lasted. After that, we had meetings, agendas, to-do lists; we all felt that something got lost. Meanwhile, we had not managed to create an up-to-date website (in two languages) nor a diary-like presentation of each project that could communicate our activities to the city's residents, whose tax money was financing our project.|
+
+//"International unMonasterians cannot be expected to grasp a second, third or fourth language over night. Any attempt to facilitate our way to deep analytical understanding is not going to bear immediate fruit. It is therefore useful if actions and deliverables are social in nature: people moving into unfamiliar groupings to meet one another under the illumination of whatever inventive context that we can serve up."//
+
+"It seems a combination of something low-key and organic made the evening work without PR flags and amplifiers.  The unMo lights were reduced to candles; the pomp was left to the performers. It was a simple but significant celebration of deep culture between young people who believed in the naked word, and a statistically moderately older people absorbing this belief.  As Nalia, one of the our crowd of loyal unMo friendly pensioners, whispered to Lucia : “Questo è il vicinato.” (This is neighbourhood.) ((http://bembodavies.com/unmonastery-1-0/))
+
+"//As discussed elsewhere, the critique that rained upon the unMonastery prototype Matera from its inception was:  that perched down there in idyllic tourist zone A we were far removed from the people. If the unMonastery was to improve life for the town’s citizens this meant that we’d have to engage them where they lived.//"
+
+
+=== Interface? ===
+“Errore #1 is that we failed to unPack the //'interface'// term sufficiently.  As the middle of three conceived categories of the unMonastery effort, it wallowed between the clearer extremes of //in-house// (upon occasion given as internal) and //outreach//.  If //in-house// is what we are, and //outreach// is what we do,  //interface// is who we are.  (See Progettini)  (Damiano’s chart of the office space)
+
+At some point priorities were drawn up.  The operation was operational, it was time to turn outward.  We needed to meet the people, we needed a website ?  Alas, for shame, we got stuck here.  For some a website was a thing of professional pride - the criteria that issued demands established that it should be state of the art, entirely open source, functional and serviceable.  Still, after 5 months in the field, we have nothing more enticing than a faceBook account.  The EdgeRyders (platform) that had served our needs in the build-up phase, was never configured to serve the needs of our primary first time visitor.  It was pointed out at several junctures, and perhaps unDiplomatically, that there exist fully functional shareware platforms that would have provided for our basic webpage needs after perhaps three days of fiddling.” (( a Scribe's note ))    
+
+   
+**2.0 Despite the purported advantage provided by their mastery of an impressive array of TLA (( three letter acronyms )), it remains highly unlikely that the Geek shall inherit the Earth.**
+   
+"//It's not clear to me what's the channel of communication you set up between Lot3 and Materani. How are you dealing with letting Materani know what's happening in the city in the next 5 days and how can they subscribe to events? (not only my workshop). If you are using facebook, then it's ok to use facebook, but usually fb events are not a good way for limited access situations because people tend to click on GO, even if they will not, because it's a way to express good feeling about the event. (and also a lot of people don't have fb, incredible!)//" ((https://edgeryders.eu/making-lote3/uniforms-habit-and-belonging-workshop-proposal-at-lote-0)) 
+     
+    
+"//We cannot deal with a zillion different channels, so we need everything in ONE place in order to fulfill reporting obligations as well as to keep the rest of the community up to date with developments within the different unMonastery projects.//    
+    
+//...I see big issue with how we use online/offline tools to
+communicate/collaborate. This two slides [3] try to visualize and link to
+online tools we currently use or which someone (mostly me) have proposed. We
+also use some undocumented online tools and practices...//    
+    
+//...At this moment I consider our signal to noise ratio rather poor. All of those
+tools have various advantages and disadvantages and while particular tools
+fit some purposes better they fail short to serve other ones. I must admit
+that we never documented our workflows well neither took time for proper
+upskilling.//" ((https://edgeryders.eu/urgent-can-someone-hand-me-some-toilet-paper-please))    
+      

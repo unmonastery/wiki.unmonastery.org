@@ -1,0 +1,56 @@
+====== The Kitchen - The Empress of the House ======
+
+^ Kitchen Design Patterns                               ^^
+^ Problem             ^ Implementation       ^
+| Maintaining Order      | Establish a clear [[https://docs.google.com/document/d/1Ev4PX04zyVyhiHXtAusA9No_LGkleIaUCX4FPs3_kgM/edit#heading=h.qgst3qi0iyuh|kitchen governance model]] that suits your conditions - ensure this is printed and affixed to a wall in the kitchen.   |
+| No centralised kitchen coordination         | It's important kitchen duties and order be maintained through a top down centralised figure - Elect an 'Emperor of the Kitchen', this individual is responsible for enforcing kitchen rules; ensuring people do their washing up, cook meals on time, prioritise perishables so to minimise waste and maintain a sufficient flow of food.    |
+| No routine, dirty washing up everywhere.    | Dirty washing up is a major morale killer and point of conflict in collective living situations, the unMonastery model resolves this with a Kitchen Rota for Breakfast, Lunch and Dinner. At the beginning of each week all unMonasterians and guests must sign up to 3-4 cooking slots, cooking is always done in pairs; you are responsible for the food and the clean up. If you invite guests and you're not cooking, you must help out. |
+| Food Shopping    | One person manages, money collected out of common pot, additional purchases evaluated and reimbursed after end of one month cycle. Single spreadsheet used for tracking purchases (local, organic, no alternative).     |
+| Zero Waste | Implement a Zero Waste System from the start, requires strong enforcer/ no alternative system, this should be based in the Kitchen - the enforcer is responsible for ensuring everyone knows what is and isn't recyclable, when paper/organic/glass should be put out for collection. |
+| Poisoning People | Upon entering the unMonastery it's essential that individuals flag allergies and if present these should be attached close to the cooker, so that individuals who are cooking don't accidentally poison there fellow unMonasterians |
+| Militant Veganism | Given the nature of the unMonastery, it's quite likely you will find individuals who are staunchly against the consumption of meat, it's important you establish a middle ground - but regardless upon what is agreed, it's essential that meat and non-meat cooking implements are kept separately |
+
+===== Description (with anecdote) =====
+---------
+
+Within the unMonastery the kitchen functions as the heart of the operation, everything you do will be determined by the way in which you run your kitchen. You must serve the kitchen in the same way as it serves you - acknowledge that it is your core communication infrastructure, both for internal organisation and as a tool for inviting people from outside. As such you should take care to pick an appropriately sized room in your building, ensure there is space for a large dining table, that can host up to 10-20 individuals. 
+
+Always keep it clean, be militant in your approach and ensure your daily routine is able to support the cleanliness of the space. 
+
+>>> QUOTE AND OR ANECDOTE FROM HAPPENINGS.
+
+Above and beyond cleanlinesses part of running a successful kitchen is ensuring everyone is fed and dietary needs are catered for well. In order to do this efficiently in Matera we went through a series of steps in the first month to ensure we would be well provided for going forward, this work was established by Cristiano as is as follows: 
+  - Visit all local suppliers within the town or city you are based, note down all prices and quality of food ([[https://docs.google.com/document/d/1yQVNkknCkB_62xC3WWHAn7AWj_wUwaDKXWF3QBRu71k/edit#heading=h.xcctwvhfx0jd|Matera example]]), your bias should be ethical over financial, evaluate the price and distance for Local, Organic and possible alternatives. 
+  - Since you're going to be buying in large quantities try and establish deals with store owners, or consider trading skills for food. 
+  - Once you've identified the appropriate suppliers (locally produced, well priced food), establish a rolling weekly schedule for doing the shopping. 
+  - When living in a small city or town, it's important to build up personal relationships with the producers and suppliers, so ensure the same person goes to the same stores on a rolling basis. In order to get a good price ensure who ever is collecting initial prices for food stock is of the same nationality as the country you're in. 
+  - Use the unMonastery Food Analytics system to maintain an overview and keep track of all finances and data relating to your food consumption.       
+
+==== Testing Time ====
+<code>Testing Time: unMonastery:Matera / 01/02/2014 - 31/07/2014
+Participants - Ben Vickers, Bembo Davies, Kei Kreutler etc
+Contact Details: matera@unmonastery.org
+</code>
+
+==== Key Risk/s ====
+
+<code> Mistakes reference </code>
+
+===== Alternatives / Recommendations =====
+---------
+
+== Reference 1 ==
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+
+== Reference 2 ==
+
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.    
+
+
+===== Documentation =====
+---------
+    * [[https://docs.google.com/spreadsheets/d/1OUz35cFUldkw9tTMgo8COwTpRZ2AYnKq2STIWPo8iOI/edit#gid=249848405|unMonastery Food Analytics - Matera]] 
+    * unMonastery Food Analytics blank template
+    * unMonastery Food Analytics explanation video
+    * [[https://docs.google.com/document/d/1Ev4PX04zyVyhiHXtAusA9No_LGkleIaUCX4FPs3_kgM/edit#heading=h.qgst3qi0iyuh|unMonastery Kitchen Governance document - Matera]]

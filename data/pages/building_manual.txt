@@ -1,0 +1,64 @@
+# Building manual
+
+[Original manual folder on Google Drive](https://drive.google.com/?tab=mo&authuser=0#folders/0B_BTERaT9bWOUGhIemFWTmdCV2s)
+
+## Trash
+
+In the building *we do sort the garbage*.
+
+### Trash categories
+We have several containers corresponding to trash categories. The containers are upstairs (in the middle room) and downstairs (in the kitchen).
+
+* **Organics (downstairs only)**
+* **Plastic and aluminium**: only **_clean_** stuff should be put here. It is put together because in Matera it is taken away at the same time.
+* **Paper / card**: only **_clean_** stuff should be put here. For example used pizza boxes can't be there because they contain fat.
+* **Glass (downstairs only)**: **_wash it_** before putting it here.
+* *Unsorted*: should be kept as small as possible.
+
+**Important note**: upstairs use only containers for _plastic_, _paper_ and _unsorted_. All other trash should be put in the container downstairs.
+
+### Taking garbage away
+In the Sassi of Matera the garbage is collected door to door. As we are not on a main street we have to put them on the pavement of the street (roughly in front of our main entrance). Of course it should be put in recyclable bags / boxes in a proper way.  
+The garbage is collected very early in the morning so it should be taken away the day before, in the evening (after 10 PM).
+
+Here is [[http://www.comune.matera.it/images/VADEMECUM_Raccolta_differenziata.pdf|the guide]] (in Italian) from the commune of Matera.
+
+* **Monday evening** : organics and paper / card
+* **Tuesday evening** : unsorted
+* **Wednesday evening** : organics and plastic / aluminium
+* **Thursday evening** : unsorted
+* **Friday evening** : organics and glass
+
+## Kitchen
+
+* {{::stove_manual.pdf|Stove manual}}
+
+## Heating
+
+* [Documentation](https://docs.google.com/document/d/1Q2Ii2hCmWJBler6MAWZhFdqxzpzpTBZzObool-uA3JA/edit#heading=h.37o5ifftjycr)
+* {{::thermostat_manual.pdf|Thermostat manual}}
+
+## Managing occupancy
+
+* [Document](https://docs.google.com/spreadsheets/d/1LyiXXWOT1A0Lj-CpdnWLIi86sfmsBNMb_Dx7bHc3oTA/edit#gid=75371543)
+
+## Mansion inventory
+
+* [Document](https://docs.google.com/spreadsheet/ccc?key=0AngZq86V_01pdDk4a3h2a0U5NFFWR21HNk5WcG1sV0E&usp=drive_web#gid=0)
+
+## Keys
+**Stage**: *proposal*
+
+### Main key: TOP 1x(10+1)
+everyone keeps a copy of a key which opens main door to the upper floor
+
+### Keys board 3x(1+1)
+all the other keys stay there, all those keys have also backup copy kept safe, keys currently 
+
+* GATE (chain + padlock) - we keep the whole chain on a board with key in a padlock
+* CAVE - key to main floor on the bottom floor
+* JUNK - key to storage room with various junk on the bottom floor
+
+## Water
+
+## Electricity

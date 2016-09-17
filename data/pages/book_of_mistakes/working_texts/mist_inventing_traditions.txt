@@ -1,0 +1,38 @@
+''|[[book_of_mistakes:working_texts:mist_interface|previous]]   |  [[book_of_mistakes:working_texts:start|back to CONTENT]]  |   [[book_of_mistakes:working_texts:mist_scriptorium|next]]|''
+====== Inventing Tradition ======
+
+//“Tradition shall be whittled away at, but whittled away at sand corn by sand corn.  
+Tradition is second nature; we are neurologically programmed to reach for the flowered scarf as the winds shift to the East.”//  ((March report)) 
+
+
+ 
+
+|To forge a community out of half a dozen strangers inside the house, without imposing an alien code of behaviour from above, the unMonastery had to develop its own traditions through emergence and experimentation. Some of these were borrowed from the Art of Hosting; some absorbed from the theatre; and some from hackerspace culture. Establishing a distinctive behavioural protocol, 'our habits', was to give rise to a horizontally created ethics, which would make us recognisable and trustworthy outside of our walls, and which also could serve as a reference point for recruiting new members. Quick prototyping assisted the developmental phase, but the lack of time to reflect and the absence of decision making tools to decide what was worth of preserving allowed important budding traditions to disappear. Cultivating a culture implies authority, and while Monasteries had the bible as a reference point to decree key question of "How to act", unMonasterians remained without any fixed basis to come to agreement about what it was to be an unMonasterian.|
+
+
+
+4 february: //Our prototype collective meeting/eating table was assembled from six pallets in our only warm room. As a tradition we now always start everything as a prototype.// ((https://edgeryders.eu/unmonastery/adherent-prototype-traditions-of-the-unmo))
+
+== 1.0 Tradition reflects.  Often worn smooth by habit, it requires a second glance to recognise the original needs that spurred its development.  Every pagan ritual was devised by very contemporary pagans. ==
+
+"The unMoaners were aware that their every step was a first.  However, caught between the desire to surprise one another with endless inventive heights of ecstasy and the need to appear as approachable human beings, elements of paralysis congested their joy.
+
+It is an amusing paradox that we are busily creating a New Tradition.
+With traditional traditions, the answer as to the why we do something, is because people have always done it this way.  With the //unMonastery Primo//, we don’t have this luxury of history.  In fact, we have the opposite luxury, we are free to find the deepest human needs and design a manner that nourishes their expression unencumbered by tradition."((BD post June 2013))
+
+== 2.0 We are inventing traditions, while the traditions are inventing us. ==
+
+{{:book_of_mistakes:working_texts:culture_first.png|}}
+
+As presented at the March Open House Party to loud whooping noises, the above diagram is "interesting".  It attempts to depict the key area of effort should we wish to leverage change.  The premise is that the problems are immense and daunting, the work endless, history is not always encouraging. The strategical place to insert our projects must also concern itself with the Culture of Change.  Beyond implementing components of technological and structural change we must explore and prepare the future cultural ramifications of this change and the emotional and social design opportunity it presents.  As the unMonastery experiment proves, aspects of this exploration direct us towards our history. ((see BD report: **The Beautiful Factory** - Parapanda theatre Labratory, Dar es Salam, 2007.))
+
+
+
+=== Culture First; then What? ===
+
+**"The Culture of the Enterprise**
+ is the //how// we do what we do.  It may not be more than good or bad manners; however we ignore it at our peril. 
+
+The pure **What** of what self-styled social engineers (such as unMoanasterians) do, is most often a minuscule step in the direction of statistically insurmountable problems.  It is vitally important in its detail, but in all earnestness it is by nature a drop in some glorious bucket.  unSurprisingly, it is therefore subject to all possible frustrations.    One recurring cause of these frustrations is the **How** things are done.  On the run from 'business as usual', we may or may not feel surrounded by idiocy.  To quibble over process may make it seem that valuable time is lost by addressing the //how// as a prerequisite for initiating a viable //what//.  However, if we ignore the quality of our human interactions it can quickly become difficult to maintain momentum…
+
+At the Edgeryder LOTE#3 session on //Tools for the unMonastery// facilitated by Victor Vorski, we broke off into several small groups.  As is often the case the composition of the groups led them in different directions.   The militant geek group reported first with their list of essential items with which to build a viable community; their key tools were a series of software applications with intriguing names such as //Milkmaid// and //Catch that Tiger//.  The list of the next group reflected other concerns; the one key item was //human warmth//.

@@ -1,0 +1,41 @@
+====== Hazards - What are your safety mechanisms? ======
+
+^ Design Patterns ^   ^^
+| [[heresy|Heresy]]   | How to differentiate between someone trying to improve unMonastery through questioning, and people who demolish the very basis of it for no reason. ||
+| [[the_unabbots|The unAbbots]]    | Sometimes someone needs to make tough decisions. ||
+| [[the_circles|The circles ]]    | We have one mouth but two ears for a reason.     ||
+
+===== Description (with anecdote) =====
+---------
+
+While most unMonasterians are social misfits, we found ourselves in the situation where we had to deliver "tangible results" to a very conservative audience. This led to several crises which were brought on by one or few unMonasterians taking things into their own hands. (elf's "Could someone please hand me some toilet paper" post on ER, Pisolino Libro)
+
+>>> QUOTE AND OR ANECDOTE FROM HAPPENINGS.
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since ((the 1500s)), when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised ((in the 1960s with the release of Letraset sheets containing Lorem Ipsum)) passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.    
+
+==== Testing Time ====
+<code>Testing Time, Where and Who / Contact Details
+Matera, 01/02/2014 - 31/07/2014 - Ben Vickers, Bembo Davies, Kei Kreutler etc
+</code>
+
+==== Key Risk/s ====
+
+<code> Mistakes reference </code>
+
+===== Alternatives / Recommendations =====
+---------
+
+== Reference 1 ==
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+
+== Reference 2 ==
+
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.    
+
+
+===== Documentation =====
+---------
+    * Reference any 
+    * and all documentation

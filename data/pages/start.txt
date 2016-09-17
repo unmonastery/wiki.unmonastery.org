@@ -1,0 +1,29 @@
+====== unMonastery ======
+
+the unMonastery is an unusual workhouse where nomadic freelancers take up community subsidised residencies in exchange for their often highly specialised skills.
+
+
+=== unMonastery in-a-box V1.0  ALPHA === 
+
+[[http://www.methodkit.com/unmonastery-in-a-box/|CARDS]] and [[Card Deck]]
+
+[[http://unmonastery-wiki.mirelsol.org/doku.php?id=book_of_mistakes:working_texts:start|Book of Mistakes]]
+
+[[book_of_greater_and_lesser_omissions_-_print|Book of Mistakes - print]]
+
+[[http://docs.google.com/document/d/1wVSJVR9nbLEszx0BdYQDeofQdpHkc9rHmcVmMT_T8hM/edit|Manual for Stakeholders]]
+
+[[The Protocol / The unRule / The unCode / etc]]
+
+
+
+
+Others:
+
+[[book_of_mistakes:working_texts:contributors_manual|Contributors' Manual]]
+
+[[it:projects|Progetti]]
+
+[[building_manual|Building manual]]
+
+[[Davies archive spill]]

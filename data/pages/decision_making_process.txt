@@ -1,0 +1,41 @@
+====== Decision-making process - Beyond Consensus ======
+
+^ Design Patterns      ^         ^
+| [[the_circles|The Circles]]   | Nurture consensus.  ||
+| [[leadership_responsibility|Leadership & Responsibility]]   | Take initiative.      ||
+| [[miracles|Miracles]]    | Yes, celebrate triumphs and chance ||
+
+===== Description (with anecdote) =====
+---------
+
+Making consensus as the general decision-making method works great for setting up baselines and general rules of operation which affect everyone. However, taking leadership and allow others to join is a more straightforward path to actually getting things done. Acknowledge that results do not always correlate to work.    
+
+>>> QUOTE AND OR ANECDOTE FROM HAPPENINGS.
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since ((the 1500s)), when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised ((in the 1960s with the release of Letraset sheets containing Lorem Ipsum)) passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.    
+
+==== Testing Time ====
+<code>Testing Time, Where and Who / Contact Details
+Matera, 01/02/2014 - 31/07/2014 - Ben Vickers, Bembo Davies, Kei Kreutler etc
+</code>
+
+==== Key Risk/s ====
+
+<code> Mistakes reference </code>
+
+===== Alternatives / Recommendations =====
+---------
+
+== Reference 1 ==
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+
+== Reference 2 ==
+
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.    
+
+
+===== Documentation =====
+---------
+    * Reference any 
+    * and all documentation

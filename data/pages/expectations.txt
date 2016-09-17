@@ -1,0 +1,42 @@
+====== Expectations - Identifying, managing and diffusing them ======
+
+^ Design Patterns      ^  ^
+| [[the_protocol|The Protocol]]    | Don't play a game you don't know the rules of.       ||
+| [[stakeholders|Stakeholders]]   | Understand why you are here from their point of view.       ||
+| [[imperatives|Imperatives]]    | The expectations of an unMonastery.  ||
+| [[personal_wellbeing|Personal well-being]]    | Individual expectations. ||
+
+===== Description (with anecdote) =====
+---------
+
+A rich territory for The Book of Mistakes, - expectations change continuously, so it is really important to document them. Stakeholders' expectations need to be respected, but need to change, too and that can only happen through clear and continuous communication with them. Individual expectations go through radical transformation as people settle into unMonastery existence. The Protocol outlines the expectations of the unMonastery community from each of its members. Is it possible to formulate the expectations of the unMonastery as a community, with regard to their hosting community?
+
+>>> QUOTE AND OR ANECDOTE FROM HAPPENINGS.
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since ((the 1500s)), when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised ((in the 1960s with the release of Letraset sheets containing Lorem Ipsum)) passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.    
+
+==== Testing Time ====
+<code>Testing Time, Where and Who / Contact Details
+Matera, 01/02/2014 - 31/07/2014 - Ben Vickers, Bembo Davies, Kei Kreutler etc
+</code>
+
+==== Key Risk/s ====
+
+<code> Mistakes reference </code>
+
+===== Alternatives / Recommendations =====
+---------
+
+== Reference 1 ==
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+
+== Reference 2 ==
+
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.    
+
+
+===== Documentation =====
+---------
+    * Reference any 
+    * and all documentation

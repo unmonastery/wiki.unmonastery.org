@@ -1,0 +1,41 @@
+====== Challenges	-	Site specific Issues ======
+
+^ Design Patterns ^           ^         ^
+| [[stakeholders|Stakeholders]]  | The challenges represent the stakes why local resources are invested in supporting an unMonastery, and never should be taken flippantly.       ||
+| [[projects|Projects]]   | Ideally, personal and group projects of the unMonastery overlap with the challenges given. ||
+| [[language_barriers|Language Barriers]]   | It is necessary to learn the language if solving the challenge(s) require communication with the community. It is also desirable to learn the language as discovering challenges is a healthier way to contribute. Given challenges inevitably represent the interests and problems of the people who give them to you.|
+
+===== Description (with anecdote) =====
+---------
+
+'Challenges' are tasks or problems, the basis for the unMonastery's work as a contribution to the host community. Challenges come from two sources: they are given by the local community as a list of problems it hopes the unMonasterians will help solving; and they are discovered by time, as the relationship between the town and the unMonastery develop.  
+
+>>> QUOTE AND OR ANECDOTE FROM HAPPENINGS.
+
+On March 23, 2013 there was a public town meeting held at the Mediateca in Matera, where citizens gave their input about the problems they see with the town. Nearly a year later, the unMonastery arrived with 11 unMonasterians signed on to solve these “challenges”. The original list contained 46 items. Later this was reduced to 12.    [[long list of challenges in Matera](https://edgeryders.eu/unmonastery/challenges-on-the-ground-unmonastery-in-matera/]
+
+==== Testing Time ====
+<code>Testing Time, Where and Who / Contact Details
+Matera, 01/02/2014 - 31/07/2014 - Ben Vickers, Bembo Davies, Kei Kreutler etc
+</code>
+
+==== Key Risk/s ====
+[[Inventing traditions](http://bembodavies.com/2014/08/19/inventing-tradition/)]
+<code> Mistakes reference </code>
+
+===== Alternatives / Recommendations =====
+---------
+
+== Reference 1 ==
+
+[[Mapping the Commons](https://edgeryders.eu/mapping-the-commons)]
+
+== Reference 2 ==
+
+
+
+
+===== Documentation =====
+---------
+    * Reference any 
+    * and all documentation

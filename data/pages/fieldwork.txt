@@ -1,0 +1,55 @@
+====== Fieldwork - i progettini ======
+
+^ Design Patterns      ^      ^          ^
+| [[Projects]]  | Continuously change, partly due to these small improvised "found projects".        ||
+| [[Challenges]]    | Can be understood better by Fieldwork.  ||
+| [[Follow Up]]	| Consistency & Commitment      |      |
+
+===== Description (with anecdote) =====
+---------
+
+To facilitate our daily, more prosaic growth it is desirable to deconstruct The Upper Case Project into component ‘progettini’.   Progettini are our conscious positive steps in close-up.  They are the openings opened, our daily desirables.  Focussing upon these natural by-products of a project description can inform us when we are really doing what we intend to be doing.  Identifying the refined facets of our living interface helps us evolve our true projects; we can begin to interact with reality.
+
+
+
+
+
+>>> QUOTE AND OR ANECDOTE FROM HAPPENINGS.
+
+Listing the component virtues of our projects may seem distasteful.  Our ‘virtuosity’ is meant to be discretely ingrained within all our worldly activities, to articulate the desire for such attributes comes dangerously close to brashly claiming their presence.  Even if projects aren’t meant to be humble, we their perpetrators are. Our way out of this is to go into our circles, to distill our desirables via a collective process that masks our personal ambition and elevates the inherent vision to a function of the group.  If I were to humbly suggest tentative project virtues that might help us unMonasterians align our day to day work, a brief list might look like this:
+
+participatory — leave behind the experience of doing the work; 
+visceral — incorporate the joy of physical effort at that core of the exchange;
+inhabit a linguistically level (or lower) playing field;  
+elegant — in accomplishment and idea;  
+demonstrative of the creation of surplus value.
+
+This short list of i virtù di progettini of can readily be extended through the actor’s homework tool of articulating one’s subtext.  What is it we do when we are doing our real work?  Or as Brother Siri once put it to the group: What are the experiences of WOW that made you feel that this was what being an unMonasterian was all about?  What are our daily objectives?  Expressed generally as, say,  “I will do some good” we remain general and toothless.  By breaking down our objectives into component parts, we gain useful precision…
+      
+==== Testing Time ====
+<code>Testing Time, Where and Who / Contact Details
+Matera, 01/02/2014 - 31/07/2014 - Ben Vickers, Bembo Davies, Kei Kreutler etc
+</code>
+
+==== Key Risk/s ====
+
+<code> Mistakes reference </code>
+
+===== Alternatives / Recommendations =====
+---------
+
+== Reference 1 ==
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+
+== Reference 2 ==
+
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.    
+
+
+===== Documentation =====
+---------
+    * Reference any 
+    * and all documentation
+
+
